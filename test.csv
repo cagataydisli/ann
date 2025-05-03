@@ -1,0 +1,2 @@
+student_id,age,gender,study_hours_per_day,social_media_hours,netflix_hours,part_time_job,attendance_percentage,sleep_hours,diet_quality,exercise_frequency,parental_education_level,internet_quality,mental_health_rating,extracurricular_participation,exam_score
+S1000,23,0.0,1.2,1.1,85.0,8.0,6,8,56.2,1,1,3,False,False,False,True,0.0,2.3,2.3,8.0
